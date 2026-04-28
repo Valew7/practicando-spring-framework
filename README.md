@@ -19,3 +19,5 @@ En desarrollo activo. Se están implementando las funcionalidades principales de
 
 ------
 stated : done 
+------
+pull : testing
